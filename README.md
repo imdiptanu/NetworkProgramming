@@ -1,2 +1,2 @@
 # NetworkProgramming
-A simple network programming in JAVA for two-way communication i.e. between server and client.
+* A simple network programming in JAVA for one-way and two-way communication between server and client.
